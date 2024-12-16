@@ -1,0 +1,10 @@
+[1105/220553:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1105/220555:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[1105/220555:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[1105/220555:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1105/220555:WARNING:backend_impl.cc(1593)] Messed up entry found.
+[1105/220555:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1105/220555:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1105/220555:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[1105/230758:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
